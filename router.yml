@@ -1,6 +1,6 @@
 ---
 - name: Set Ip Loobpack
-  hosts: all
+  hosts: R
   gather_facts: no
 
   tasks:
